@@ -9,3 +9,5 @@ monitoring (prometheus)
 ci pipeline (github actions)
 # Docker
 - Dockerfile builds a simple python image.
+# Kubernetes
+- deployment.yaml and service.yaml for demo-app.
