@@ -11,3 +11,5 @@ ci pipeline (github actions)
 - Dockerfile builds a simple python image.
 # Kubernetes
 - deployment.yaml and service.yaml for demo-app.
+# CI
+- GitHub Actions runs on push to main and on PR.
