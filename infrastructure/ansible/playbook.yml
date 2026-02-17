@@ -1,0 +1,8 @@
+---
+- name: Example playbook
+  hosts: all
+  become: true
+  tasks:
+    - name: Print hello
+      debug:
+        msg: "Hello from Ansible"
