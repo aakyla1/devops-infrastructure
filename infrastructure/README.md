@@ -7,3 +7,5 @@ kubernetes manifests
 dockerfile
 monitoring (prometheus)
 ci pipeline (github actions)
+# Docker
+- Dockerfile builds a simple python image.
